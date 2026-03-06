@@ -9,7 +9,7 @@ crudos en una base de datos analítica lista para Power BI.
 - **Python** (pandas, sqlite3) — ETL pipeline
 - **SQLite** — Base de datos analítica
 - **SQL** — KPIs de negocio
-- **Power BI** — Dashboard (en desarrollo)
+- **Power BI** — Dashboard de 3 páginas con data storytelling,indicadores KPI, análisis geográfico y tendencia de ventas
 - **DBeaver** — Exploración de datos
 
 ## 📁 Estructura del Proyecto
@@ -57,4 +57,5 @@ python load.py
 
 ## 📂 Datos
 Dataset público de Kaggle: 
+
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
